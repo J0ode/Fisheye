@@ -1,0 +1,20 @@
+{
+    "name": "fisheye",
+    "version": "1.0.0",
+    "description": "Openclassrooms - Parcours développeur Front-end",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+      "scripts": "./scripts/pages/index.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/J0ode/Fisheye"
+    },
+    "author": "\"Degrez Jordan\"",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/J0ode/Fisheye/issues/issues"
+    },
+    "homepage": "https://j0ode.github.io/Fisheye/"
+  }
